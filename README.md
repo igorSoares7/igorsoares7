@@ -22,4 +22,10 @@ Apaixonado por aprender e transformar ideias em soluções 🚀.<br>
 <div align="center">
   <br><br><br>
   <a href="https://www.linkedin.com/in/igor-soares-021531185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br><br><br>
 </div>
+<div align="center">
+  <span>Perfil em atualização</span>
+  <img align="center" alt="Rafa-CSS" height="25" width="25" src="https://github.com/user-attachments/assets/9f366d41-2b40-448c-9e6e-831fe3eff1bc" />
+</div>
+

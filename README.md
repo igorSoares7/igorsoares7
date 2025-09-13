@@ -4,7 +4,7 @@ Sou estudante de Gestão da Tecnologia da Informação 🎓, com conhecimento em
 
 Atualmente focado em aprimorar minhas habilidades em Data Science 📊 e Python 🐍.
 
-Apaixonado por aprender, criar projetos e transformar ideias em soluções 🚀.
+Professor, apaixonado por aprender e transformar ideias em soluções 🚀.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
